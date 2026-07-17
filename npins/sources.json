@@ -24,9 +24,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "7e5eacd818f54ece2a66417c241884388643be62",
-      "url": "https://codeberg.org/evergarden/aerc/archive/7e5eacd818f54ece2a66417c241884388643be62.tar.gz",
-      "hash": "sha256-CDifF+4wB/e+0pN1Xo7mKBoHRbnlVS43cxz8euMiqPg="
+      "revision": "9549eba83078e2e5943095908488854abba3b846",
+      "url": "https://codeberg.org/evergarden/aerc/archive/9549eba83078e2e5943095908488854abba3b846.tar.gz",
+      "hash": "sha256-IKVtXWyGBOatWM+tXJseHHeW3eRPpzqUkqew4kY6BoI="
     },
     "alacritty": {
       "type": "Git",
@@ -80,9 +80,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "b51f49c152c561b06473482cb522be3c692ced6e",
-      "url": "https://codeberg.org/evergarden/fish/archive/b51f49c152c561b06473482cb522be3c692ced6e.tar.gz",
-      "hash": "sha256-Q+UZ4rkZMy27DXxLZs1/pQRJbyKyD+Af4mOlC03hmYA="
+      "revision": "58f048fee12e03cf5b1e6f794240edd2181eaa01",
+      "url": "https://codeberg.org/evergarden/fish/archive/58f048fee12e03cf5b1e6f794240edd2181eaa01.tar.gz",
+      "hash": "sha256-LStQCleoa21m/Sn8uWWHHLR4wJUuE3DY+z0scQWLjgk="
     },
     "foot": {
       "type": "Git",
@@ -108,9 +108,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "5a814f683d69b4cf2279ecdbdda23b6aa0e81515",
-      "url": "https://codeberg.org/evergarden/ghostty/archive/5a814f683d69b4cf2279ecdbdda23b6aa0e81515.tar.gz",
-      "hash": "sha256-po+aDqIbpE+muteZWIHjWyiNr+O7T3NiROKwyYQYnnA="
+      "revision": "b0490aa1201507e683c7a2623fa223c655a621fc",
+      "url": "https://codeberg.org/evergarden/ghostty/archive/b0490aa1201507e683c7a2623fa223c655a621fc.tar.gz",
+      "hash": "sha256-eoHEEWbe/JkaEXYM7y7VcFcGOMfy9178lIxNwg/o4D4="
     },
     "halloy": {
       "type": "Git",
@@ -136,9 +136,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "931c5dafd975ae6a82b0d1a281eb93406ff20bb8",
-      "url": "https://codeberg.org/evergarden/helix/archive/931c5dafd975ae6a82b0d1a281eb93406ff20bb8.tar.gz",
-      "hash": "sha256-ehhGRR11dA1CYpcGZPGGSbpFL/Rwb34MitDKjXb3btE="
+      "revision": "53cad3aa2623faf837bb19cc81dfd5c8b2772b10",
+      "url": "https://codeberg.org/evergarden/helix/archive/53cad3aa2623faf837bb19cc81dfd5c8b2772b10.tar.gz",
+      "hash": "sha256-uxy6Mir+g1yWK0NOLnxq4fP9ogv9YcEaA5EgDF/0sSU="
     },
     "iterm": {
       "type": "Git",
@@ -234,9 +234,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "630991dc6ddf6f12405dc2c7f09bdd4ec3988a0a",
-      "url": "https://codeberg.org/evergarden/zathura/archive/630991dc6ddf6f12405dc2c7f09bdd4ec3988a0a.tar.gz",
-      "hash": "sha256-KHllIvnhdf2IQlHesWeatLDKJRseuEOnS0FWhZCWtm0="
+      "revision": "c5d51eb112c0659a0c9bde9f916ad7dd598965f1",
+      "url": "https://codeberg.org/evergarden/zathura/archive/c5d51eb112c0659a0c9bde9f916ad7dd598965f1.tar.gz",
+      "hash": "sha256-g/oxmeMX76iiPlf+OxFHHzhDeO1Rh7SFI65SikctUls="
     }
   },
   "version": 7
